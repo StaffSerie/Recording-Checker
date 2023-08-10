@@ -4,7 +4,7 @@ This is a recording checker created in C++and it detects any currently running r
 # READ 
 • Apologies for the false virus flagging of our .exe, it's a misidentification, and your system is not at risk. 
 
-• We are not the only one with this problem, if u have any idea how to fix it please reach me out on discord : StaffSerie. 
+• We are not the only one with this problem, if u have any idea how to fix it please reach me out on discord : StaffSerie 
 
 • VirusTotal Scan : 
 
