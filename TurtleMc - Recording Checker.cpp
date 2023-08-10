@@ -98,10 +98,9 @@ void RunSource1() {
                                     L"                        `.^'   StaffSerie              \n"
                                     L"                             play.turtlemc.net                 \n"
                                     , FOREGROUND_GREEN);
-
-                                // 10 seconds for the Art
-                                Sleep(10000);
-
+                                // Sleep for 3 seconds (3000 milliseconds)
+                                Sleep(2000);
+                                
                                 // Show the username using system command
                                 system("echo Hello, %USERNAME%\n\n\n");
 
